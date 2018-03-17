@@ -1,5 +1,7 @@
-# Curse DSA - Data Science Academy
+# Data Science Repository
 ----+----+----+----+----+----+----+----+----+----
+
+All jupyter notebooks found here can be run at: ![Notebooks](https://mybinder.org/v2/gh/ezequias/data.science/master)
 
 # CARREER
 ## DATA ANALYST > > DATA SCIENTIST
@@ -18,7 +20,7 @@ Proceed ([y]/n)? yes
 Go to project directory and type:
 > jupyter notebook
 > Or
-!()[https://hub.mybinder.org/user/ezequias-data.science-67plkvi4/tree]
+![](https://hub.mybinder.org/user/ezequias-data.science-67plkvi4/tree)
 
 ## START JUPYTER LAB
 > jupyter lab
@@ -30,5 +32,5 @@ Go to project directory and type:
 
 ## BUILT-IN FUNCTIONS
 
-https://docs.python.org/3/library/functions.html
+![](https://docs.python.org/3/library/functions.html)
 
