@@ -4,4 +4,5 @@ channels:
 dependencies:
   - ipython
   - ipywidgets
+  - pythreejs
   - ipyleaflet
