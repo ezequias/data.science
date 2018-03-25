@@ -45,9 +45,11 @@ Go to project directory and type:
 > 
 
 #### HELP (to object)
-
-''help(myObject)''
-
+```python
+help(myObject)
+```
 #### SEE AVALIABLE METHODS AND PROPERTIES OF AN OBJECT
 
-''dir(myObject)''
+```python
+dir(myObject)
+```
