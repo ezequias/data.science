@@ -6,7 +6,9 @@ All jupyter notebooks found here can be run at:
 ### CARREER
 #### DATA ANALYST > > DATA SCIENTIST
 
-### ANNOTATIONS
+#### CHALLENGERS
+https://www.practicepython.org/exercise/2014/05/28/16-password-generator.html
+https://www.w3resource.com/python-exercises/
 
 #### INSTALL JUPYTER LAB
 > conda install -c conda-forge jupyterlab==0.31.8
@@ -35,6 +37,17 @@ Go to project directory and type:
 
 []: https://docs.python.org/3/library/functions.html
 
-#### CONVERT TO BYTECODE
+#### CONVERT TO BYTECODE (compile)
 > python -OO -m py_compile teste.py
 
+#### CONVERT TO BYTECODE (all)
+> python -m compileall .
+> 
+
+#### HELP (to object)
+
+'''help(myObject)'''
+
+#### SEE AVALIABLE METHODS AND PROPERTIES OF AN OBJECT
+
+'''dir(myObject)'''
