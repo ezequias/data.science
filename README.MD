@@ -46,8 +46,8 @@ Go to project directory and type:
 
 #### HELP (to object)
 
-'''help(myObject)'''
+''help(myObject)''
 
 #### SEE AVALIABLE METHODS AND PROPERTIES OF AN OBJECT
 
-'''dir(myObject)'''
+''dir(myObject)''
