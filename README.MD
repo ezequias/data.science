@@ -1,5 +1,7 @@
 # Data Science Repository
+https://github.com/dsacademybr
 
+# My repository
 All jupyter notebooks found here can be run at: 
 [Notebooks]: https://mybinder.org/v2/gh/ezequias/data.science/master
 
